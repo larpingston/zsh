@@ -1,4 +1,4 @@
- Created by newuser for 5.9
+# Created by newuser for 5.9
 
 # Enable colors and change prompt:
 autoload -U colors && colors
