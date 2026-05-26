@@ -1,1 +1,1 @@
-zsh shell configuration i use
+# zsh shell configuration i use
