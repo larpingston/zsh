@@ -1,0 +1,1 @@
+Zsh config i use
