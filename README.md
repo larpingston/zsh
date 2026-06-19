@@ -1,4 +1,4 @@
-## my zsh shell configurations
+## my zsh shell configuration
 
 deps
 ```
